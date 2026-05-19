@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "imageLink": "src/assets/Service.jpg",
+        "imageLink": "/Service.jpg",
         "title": "Service Site",
         "link": "/Landing"
     },
     {
         "id": 2,
-        "imageLink": "src/assets/Memory.png",
+        "imageLink": "/Memory.png",
         "title": "Memory Game",
         "link": "/Landing"
     },
     {
         "id": 3,
-        "imageLink": "src/assets/Ecommerce.jpg",
+        "imageLink": "/Ecommerce.jpg",
         "title": "E-Commerce Site",
         "link": "/Landing"
     },
     {
         "id": 4,
-        "imageLink": "src/assets/Analytics.png",
+        "imageLink": "/Analytics.png",
         "title": "Analytics Site",
         "link": "/Landing"
     }
